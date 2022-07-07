@@ -1,1 +1,4 @@
 # actividadGrupal
+Miriam
+Sergio
+Nicolás
